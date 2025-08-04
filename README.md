@@ -3,3 +3,5 @@
 ![An example of an Identity Ecosystem Graph](ecosystem-graph.png "Identity Ecosystem Graph")
 ### There are two ways for risk calculation: The PageRank Algorithm, and the E-HITS (edge weight hyperlink-induced topic search) Algorithm.
 ![pseudo code for the PageRank Algorithm](PageRank.png "PageRank")
+
+![pseudo code for the E-HITS Algorithm](E-HITS.png "PageRank")
