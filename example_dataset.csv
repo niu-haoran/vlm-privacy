@@ -1,0 +1,116 @@
+﻿story,inputs,outputs,lossAmount
+"Chicago, IL
+Man Arrested in Sophisticated Identity Theft Scheme That Emptied Victim’s Bank Account
+A 34-year-old man from Naperville, Illinois, was arrested Tuesday on charges of identity theft and financial fraud after authorities say he used stolen personal information to gain unauthorized access to a local resident’s bank account.
+
+According to the Chicago Police Department and federal investigators, the suspect, Jonathan Pierce, obtained sensitive personal information belonging to the victim — including the full name, driver’s license number, and Social Security number — through a phishing campaign disguised as a Department of Motor Vehicles notification.
+
+Once in possession of the data, Pierce allegedly contacted the victim’s bank posing as the account holder. Using the stolen credentials, he was able to reset security questions and gain online access to the victim’s checking and savings accounts. Authorities say the suspect then transferred more than $28,000 to a newly created account under a fake business entity.
+
+The fraud came to light after the victim, Marcus Allen, a 41-year-old small business owner, noticed suspicious withdrawals from his account and reported them to Fidelity Community Bank. A joint investigation by the bank’s fraud department and the FBI’s Cyber Crime Division led to the tracing of IP addresses, eventually linking the unauthorized transactions to Pierce’s apartment.
+
+“Mr. Pierce operated with precision, using a combination of digital manipulation and social engineering tactics to bypass common safeguards,” said FBI Special Agent Alicia Moreno in a press briefing Wednesday. “Fortunately, the rapid reporting by the victim allowed us to act quickly.”
+
+Pierce was arrested without incident and is facing multiple charges, including:
+
+Aggravated Identity Theft (18 U.S. Code § 1028A)
+Bank Fraud (18 U.S. Code § 1344)
+Wire Fraud (18 U.S. Code § 1343)
+He is currently being held at the Cook County Jail without bail and is scheduled to appear in federal court next Monday.
+
+If convicted, Pierce faces up to 30 years in federal prison, along with financial restitution and fines.","name,driver license number,social security number",bank account,28000.00
+"Phoenix, AZ
+
+Scottsdale Man Arrested for Orchestrating Identity Theft That Led to $72,400 in Fraudulent Withdrawals
+A 41-year-old man has been arrested and charged with multiple counts of identity fraud after allegedly using stolen contact information to obtain official documents and ultimately siphon over $72,000 from a woman’s bank account, according to the Arizona Department of Public Safety (AZDPS).
+
+The suspect, Michael Trent Davis, of Scottsdale, is accused of leveraging publicly available and leaked personal information — including the victim’s full name, home address, personal email, and phone number — to impersonate her and initiate a cascade of fraudulent activity.
+
+The victim, Danielle Ruiz, 38, a registered nurse residing in Mesa, began receiving suspicious emails from state agencies in late May but initially assumed they were spam. Unbeknownst to her, Davis had already used her contact information to submit a “replacement birth certificate” request to the Arizona Office of Vital Records, claiming hers had been destroyed in a house fire. With the new birth certificate in hand, Davis then applied for a Social Security card replacement, successfully obtaining a copy mailed to the victim’s actual address — which he had been monitoring.
+
+Using both documents, Davis opened a fraudulent bank account in Ruiz’s name at Verity National Bank, activated mobile banking, and transferred a total of $72,400 out of Ruiz’s actual checking and investment accounts across multiple institutions. The theft included:
+
+$38,000 from her primary savings
+$24,400 from a brokerage-linked checking account
+$10,000 in a fraudulent loan, issued under her name, which was immediately withdrawn in cash
+The scam unraveled after Ruiz received a notification about a credit pull she had not authorized. When she contacted the financial institution, an internal fraud team flagged inconsistencies in IP address logins and device fingerprints.
+
+AZDPS cybercrime investigators executed a search warrant at Davis’s apartment on July 28, where they found multiple forged government documents, handwritten notes with PII from other potential victims, and software designed to spoof email headers and phone numbers.
+
+Davis has been charged with:
+
+Theft of Identity (A.R.S. § 13-2008)
+Computer Tampering (A.R.S. § 13-2316)
+Fraudulent Schemes and Artifices (A.R.S. § 13-2310)
+Forgery (A.R.S. § 13-2002)","name,address,email,phone number","birth certificate,social security card,bank account",72400.00
+"Orlando, FL 
+
+Florida Man Posed as Grandson to Defraud Elderly Woman in $39,000 Identity Theft Scam
+A 36-year-old man from Kissimmee has been arrested for orchestrating a targeted identity theft scam that exploited an elderly woman’s trust and limited technological awareness, resulting in more than $39,000 in financial losses.
+
+The suspect, Tobias Reed Evans, allegedly used just three pieces of information to initiate the fraud: the victim’s phone number, home address, and names of immediate family contacts — all obtained through a combination of online directory scraping and social media mining.
+
+The victim, Eleanor H. Wilcox, 74, of Winter Park, first received a panicked phone call in early June from a man claiming to be her grandson, “Josh,” who said he had been in a serious accident and needed her help urgently. The call was followed by a second one, supposedly from a “public defender,” urging Mrs. Wilcox not to tell anyone and to assist in confirming Josh’s identity with some personal information.
+
+Under the impression she was helping her grandson, Wilcox confirmed her home address, full name, and the last four digits of her Social Security number — all of which Evans already partially possessed. That allowed him to initiate a “forgot password” process at Central Florida Credit Union, successfully recovering access to her online banking account by redirecting the 2FA codes to a spoofed phone number.
+
+According to investigators, Evans used the gained access to:
+
+Extract $24,000 in direct transfers to a crypto exchange under a false business name
+Issue a $10,000 wire transfer to a prepaid account under an alias
+Request a $5,000 cash withdrawal at a local branch using a forged ID and posing as Wilcox’s “caretaker”","phone number,family contacts,address","bank account,social security number,name",39000.00
+"Seattle, WA
+
+Man Charged in Digital Identity Theft Scheme After Stealing Credit Card Through Government Portal Breach
+A 29-year-old man from Tacoma has been charged in a digital identity theft case involving the unauthorized access of a government benefits portal, using minimal personal information to extract a victim’s credit card data and rack up more than $18,600 in fraudulent charges.
+
+The suspect, Julian Marcus Holloway, allegedly obtained the victim’s birth certificate, username, and password from a prior data breach of a now-defunct employment agency platform. With that information, Holloway logged into the Washington State Benefit Services Portal, a government site used for unemployment, tax refunds, and public service reimbursements.
+
+The victim, Christopher Ng, 33, a software technician from Bellevue, had not used the portal in over a year and was unaware that his stored financial details, including a state-issued benefit-linked credit card, were still active and vulnerable.
+
+According to the Washington State Cybercrime Task Force, Holloway used the credentials to:
+
+Access Ng’s personal profile
+Unlock his state-issued credit card account (intended for tax return disbursements)
+Change the mailing address and request a physical replacement card
+Add the card to multiple digital wallets under various aliases
+Authorities state that within 72 hours, the card was used for:
+
+$6,200 in luxury electronics purchases
+$4,100 in airline and hotel bookings
+$3,300 in crypto wallet funding
+$5,000 in cash-like digital gift card conversions
+The scheme was discovered when Ng received a fraud alert from a major credit bureau regarding unusual travel spending. State IT officials tracked login timestamps and IP addresses, which led directly to Holloway’s apartment, where police found a laptop logged into Ng’s benefit account and several packages of high-end electronics.
+
+Holloway now faces charges including:
+
+Computer Trespass in the First Degree (RCW 9A.52.110)
+Identity Theft in the Second Degree (RCW 9.35.020)
+Access Device Fraud (18 U.S. Code § 1029)
+Theft in the First Degree","birth certificate,username, password",credit card,18600.00
+"Denver, CO 
+
+Colorado Man Indicted in Bank Account Takeover Scheme Using Stolen Card Details and Forged Signature
+A 44-year-old man from Aurora has been indicted on multiple felony counts after authorities say he used stolen payment card data and a forged signature to fraudulently access a man’s bank account, resulting in a loss of $27,800.
+
+The suspect, Victor Dean Hollow, allegedly acquired the victim’s credit card number, debit card number, CVV code, name, and scanned signature through what investigators believe was a skimming operation tied to a compromised gas station terminal in Lakewood.
+
+The victim, Jonathan Kim, 38, an architect living in downtown Denver, first noticed something was wrong when his bank account was temporarily locked due to an ""address change request"" he had not initiated. By the time the issue was flagged, nearly $28,000 had been transferred out of his account via unauthorized online banking access.
+
+According to the Colorado Bureau of Investigation (CBI), Hollow used the stolen credit and debit card numbers to impersonate Kim over the phone with Rocky Mountain Trust Bank. He provided both card numbers and CVV codes as verification, then emailed a scanned image of Kim’s signature — believed to have been lifted from a signed store receipt — to request full online account access and “emergency mobile banking activation.”
+
+Within hours, Hollow:
+
+Gained access to Kim’s personal checking and savings accounts
+Linked the accounts to a third-party money transfer platform under a false business name
+Executed three large withdrawals totaling $27,800, which were moved into untraceable digital wallets
+The transactions were carried out on a Friday evening, and by the time Kim reached the bank on Monday morning, the funds were unrecoverable.
+
+CBI agents used ATM camera footage, server logs, and geolocation tracking from the fraudulent mobile login to trace the activity back to Hollow’s residence, where they also found forged bank forms, multiple burner phones, and card readers used in skimming.
+
+He has been formally charged with:
+
+Bank Fraud (18 U.S. Code § 1344)
+Identity Theft (Colo. Rev. Stat. § 18-5-902)
+Forgery (Colo. Rev. Stat. § 18-5-102)
+Criminal Possession of a Financial Device","credit card number,debit card number,cvv code,signature,name",bank account,28000.00
