@@ -1,0 +1,48 @@
+PII,PageRank score with freqeuncy weight (used in the paper),PageRank score with lossAmount weight,E-HITS hub score with freqeuncy weight,E-HITS hub score with lossAmount weight,E-HITS hub score with freqeuncy weight and lossAmount initilization,E-HITS authority score with freqeuncy weight,E-HITS authority score with lossAmount weight,E-HITS authority score with freqeuncy weight and lossAmount initilization
+bank account number,369.94,166.06,230.76,248.59,230.76,1909.24,1142.84,1909.24
+bank account balance,53.54,54.48,0.13,0.01,0.13,31.39,0.0,31.39
+bank account transfer amount,113.92,390.5,0.0,0.0,0.0,70.8,4721.32,70.8
+address,2286.07,1548.38,5716.58,7749.31,5716.58,49401.23,1127471.88,49401.23
+email address,671.14,572.79,1662.41,268804.6,1662.41,11553.06,1103899.5,11553.06
+date of birth,2197.14,3107.29,8029.65,101410.5,8029.65,49553.31,479302.37,49553.31
+name,4600.16,4218.45,22469.35,32389.48,22469.35,134371.86,2138969.24,134371.86
+social security number,3095.35,3327.73,5296.0,76812.21,5296.0,71641.04,717201.89,71641.04
+personal identification number,237.77,235.35,86.08,19.54,86.08,140.64,5037.77,140.64
+username,368.39,465.31,1156.79,0.08,1156.79,6092.1,1263179.78,6092.1
+routing number,230.51,104.53,102.22,26.09,102.22,338.23,28.43,338.23
+employment history,65.72,63.24,33.7,16.08,33.7,165.82,28.7,165.82
+tax refund,1177.09,1053.72,2.9,17.65,2.9,2505.52,14178.21,2505.52
+medicaid reimbursement,111.07,157.72,0.11,0.02,0.11,59.67,142.46,59.67
+medicare reimbursement,109.07,204.5,25.27,33.1,25.27,60.54,217.72,60.54
+medical information,219.05,132.7,3.78,2.99,3.78,834.92,9.38,834.92
+credit card information,1615.85,1211.08,4203.02,61841.1,4203.02,22261.32,1916267.53,22261.32
+debit card information,545.37,598.05,272.44,29000.72,272.44,4496.5,1829450.59,4496.5
+signature,129.21,119.99,159.76,167.84,159.76,317.0,122.13,317.0
+phone number,763.68,469.91,810.03,837.23,810.03,14684.26,1111251.71,14684.26
+bank card expiration date,167.75,134.07,29.48,120.92,29.48,2562.75,119852.92,2562.75
+credit card number,534.61,362.11,682.61,746.58,682.61,3601.59,14108.77,3601.59
+cvv code,454.65,328.68,53.92,120.93,53.92,2084.85,2381.48,2084.85
+debit card number,60.31,42.55,99.13,9.25,99.13,1199.06,5725.78,1199.06
+bill paid,127.04,129.87,0.11,0.0,0.11,171.85,156.17,171.85
+customer account information,24.22,32.16,0.11,0.0,0.11,6.85,0.0,6.85
+customer account,34.41,31.83,98.79,0.0,98.79,34.71,0.0,34.71
+account number,81.67,75.96,189.64,122.59,189.64,1794.96,10.43,1794.96
+fund bank account,674.57,670.27,28.12,1797.74,28.12,774.74,7300.95,774.74
+fund withdrawn from bank account,140.78,220.5,0.0,0.0,0.0,109.34,3450.15,109.34
+employee record,37.77,36.5,66.72,5.91,66.72,216.9,24.4,216.9
+diagnosis,251.95,174.31,93.99,0.0,93.99,208.87,0.0,208.87
+treatment information,74.2,59.09,0.57,0.62,0.57,249.43,0.07,249.43
+prescription drug,203.57,159.26,0.02,0.0,0.02,140.21,3.04,140.21
+medical record number,146.98,51.69,71.15,0.0,71.15,347.1,0.27,347.1
+health plan member number,46.57,43.42,7.48,0.73,7.48,215.68,67.42,215.68
+insurance policy information,125.46,131.85,13.26,8.58,13.26,798.97,278.79,798.97
+biometric data,63.16,37.42,19.83,0.0,19.83,61.47,0.1,61.47
+education level,44.79,52.64,0.0,0.0,0.0,46.94,11.89,46.94
+employment information,28.16,35.67,0.89,0.15,0.89,0.53,0.0,0.53
+gender,104.56,87.04,47.04,0.02,47.04,804.26,0.16,804.26
+driver license number,179.61,84.07,182.85,44.27,182.85,2347.29,269881.01,2347.29
+driver license,373.88,165.81,368.66,87.26,368.66,572.09,467.4,572.09
+health insurance card,22.93,31.81,25.01,0.0,25.01,0.0,0.0,0.0
+health insurance policy number,90.89,44.23,43.76,0.0,43.76,64.52,0.0,64.52
+social security card,282.8,72.79,119.98,4.75,119.98,157.44,293.28,157.44
+voter identification card,53.17,73.45,0.01,0.0,0.01,0.33,0.0,0.33
